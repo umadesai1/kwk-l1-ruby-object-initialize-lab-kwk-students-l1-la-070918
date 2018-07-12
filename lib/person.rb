@@ -4,4 +4,4 @@ class Person
    end
    
   
-one_person = person.new ("Beyonce")
+one_person = person.new("Beyonce")
